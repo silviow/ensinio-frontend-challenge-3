@@ -49,7 +49,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 
 - A interface deve ser **100% responsiva**;
 - Fazer uso de uma ou mais ferramentas "linter";
-- Escrever ao menos 5 testes unitários (ferramentas a seu critério);
+- Escrever ao menos 6 testes unitários (ferramentas a seu critério);
 - Implementar tratamento eficiente de erros (error boundaries + logs);
 - Demonstrar, em alguma implementação, o princípio da Inversão de Dependências do acrônimo SOLID;
 - Requisitar dados (presentes no arquivo "db.json") de uma API fictícia utilizando [json-server](https://github.com/typicode/json-server);

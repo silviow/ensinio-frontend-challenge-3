@@ -63,7 +63,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - Animações;
 - Alta cobertura de testes;
 - Todos os princípios do acrônimo SOLID demonstrados;
-- Demonstrar princípios arquiteturais propostos em "Clean Architecture: A Craftsman's Guide to Software Structure and Design";
+- Demonstrar princípios arquiteturais propostos em "Clean Architecture: A Craftsman's Guide to Software Structure and Design".
 
 ## :page_facing_up: Critérios de avaliação
 

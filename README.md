@@ -52,10 +52,9 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - Escrever ao menos 5 testes unitários (ferramentas a seu critério);
 - Implementar tratamento eficiente de erros (error boundaries + logs);
 - Demonstrar, em alguma implementação, o princípio da Inversão de Dependências do acrônimo SOLID;
-- As aplicações devem ser performáticas (serão utilizados profilers para validar renderizações desnecessárias, etc);
-- Requisitar dados (do arquivo "db.json", presente no repositório) de uma API fictícia utilizando [json-server](https://github.com/typicode/json-server);
-- O projeto deve possuir usabilidade impecável (aos olhos de um usuário, o projeto deve funcionar como uma só aplicação; os botões devem ter cursor adequado, feedbacks visuais de hover, etc);
-- Implementar a funcionalidade de internacionalização (todos os textos da aplicação devem possuir variações para os idiomas português, inglês e espanhol; a seleção do idioma, por parte do usuário, deve ser persistida);
+- Requisitar dados (presentes no arquivo "db.json") de uma API fictícia utilizando [json-server](https://github.com/typicode/json-server);
+- O projeto deve possuir usabilidade impecável (aos olhos de um usuário o projeto deve funcionar como uma só aplicação; os botões devem ter cursor adequado, feedbacks visuais de hover, etc);
+- Implementar a funcionalidade de internacionalização (todos os textos da aplicação devem possuir variações para os idiomas português, inglês e espanhol; a seleção do idioma - por parte do usuário - deve ser persistida);
 - Fazer uso de uma abordagem ou ferramenta para o gerenciamento de estado e comunicação entre os micro frontends (pois, ao selecionar um novo idioma na topbar do micro frontend 1, por exemplo, o idioma também deve mudar no micro frontend 2);
 - Fornecer uma documentação, incluindo instruções completas para a execução do projeto;
 

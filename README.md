@@ -1,6 +1,6 @@
-## :rocket: Teste técnico para Desenvolvedor Front-end Sênior na Ensinio
+## :rocket: Teste técnico para Desenvolvedor(a) Front-end Sênior na Ensinio
 
-O presente teste foi cuidadosamente planejado por um time em busca da excelência para validar os conhecimentos técnicos necessários para a posição de Desenvolvedor Front-end Sênior na Ensinio.
+O presente teste foi cuidadosamente planejado por um time em busca da excelência para validar os conhecimentos técnicos necessários para a posição de Desenvolvedor(a) Front-end Sênior na Ensinio.
 
 Serão avaliados aspectos relacionados aos conhecimentos nas melhores práticas de código (observe que não são apenas "boas práticas", mas **as melhores**), testes, princípios arquiteturais de software e documentação, além do **domínio** das tecnologias HTML, CSS, TypeScript, React.js e do ecossistema que as cerca.
 

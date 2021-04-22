@@ -56,6 +56,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - O projeto deve possuir usabilidade impecável (aos olhos de um usuário o projeto deve funcionar como uma só aplicação; os botões devem ter cursor adequado, feedbacks visuais de hover, etc);
 - Implementar a funcionalidade de internacionalização (todos os textos da aplicação devem possuir variações para os idiomas português, inglês e espanhol; a seleção do idioma - por parte do usuário - deve ser persistida);
 - Fazer uso de uma abordagem ou ferramenta para o gerenciamento de estado e comunicação entre os micro frontends (pois, ao selecionar um novo idioma na topbar do micro frontend 1, por exemplo, o idioma também deve mudar no micro frontend 2);
+- Hospedar a aplicação, permitindo o acesso através de uma URL (você pode usar plataformas gratuitas, como Vercel, Netlify, Heroku e afins);
 - Fornecer uma documentação, incluindo instruções completas para a execução do projeto;
 
 ## :clap: Diferenciais
@@ -76,9 +77,13 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - A **responsividade** da interface: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
 - Seu **empenho**: não tem problema se algo não sair como desejado, mas tente! :blush:
 
+## :lock: Autoria
+
+O projeto desenvolvido durante o teste em questão **não será utilizado** para quaisquer outros fins além da avaliação do candidato. 
+
 ## :email: Sobre a entrega
 
-Pedimos que, por gentileza, entregue o teste em até 9 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaborador o usuário [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com).
+Pedimos que, por gentileza, entregue o teste em até 9 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaborador o usuário [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com). No email, envie também o link para preview online da aplicação. :)
 
 Se por motivos de força maior não for possível cumprir com o prazo, por gentileza, nos informe via email. 
 

@@ -2,7 +2,7 @@
 
 O presente teste foi cuidadosamente planejado por um time em busca da excelência para validar os conhecimentos técnicos necessários para a posição de Desenvolvedor(a) Front-end Sênior na Ensinio.
 
-Serão avaliados aspectos relacionados aos conhecimentos nas melhores práticas de código (observe que não são apenas "boas práticas", mas **as melhores**), testes, princípios arquiteturais de software e documentação, além do **domínio** das tecnologias HTML, CSS, TypeScript, React.js e do ecossistema que as cerca.
+Serão avaliados aspectos relacionados aos conhecimentos nas melhores práticas de código (observe que não são apenas "boas práticas"), testes, princípios arquiteturais de software e documentação, além do **domínio** das tecnologias HTML, CSS, TypeScript, React.js e do ecossistema que as cerca.
 
 É esperado que você resolva os problemas propostos de forma eficiente e elegante (estamos confiantes de que você pode vencer a vontade de fazer gambiarras :stuck_out_tongue_winking_eye:), e demonstre seu raciocínio lógico, atenção a detalhes, capacidade de aprender e agregar valor, ao passo em que entrega uma aplicação de alto nível, à altura da sua capacidade técnica.
 
@@ -81,8 +81,12 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 
 O projeto desenvolvido durante o teste em questão **não será utilizado** para quaisquer outros fins além da avaliação do candidato. 
 
+## :warning: Atenção
+
+**Não serão avaliados testes técnicos cuja aplicação não esteja hospedada**. O acesso deve estar disponível através de uma URL (você pode usar plataformas gratuitas, como Vercel, Netlify, Heroku e afins), que obrigatoriamente deve ser informada na documentação e email de entrega.
+
 ## :email: Sobre a entrega
 
-Pedimos que, por gentileza, entregue o teste em até 9 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaborador o usuário [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com). No email, envie também o link para preview online da aplicação. :)
+Pedimos que, por gentileza, entregue o teste em até 9 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaboradores os usuários [@ensiniodevfront](https://github.com/ensiniodevfront)** (front@ensinio.com) **e [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com). No email, envie também o link para preview online da aplicação. :)
 
 Se por motivos de força maior não for possível cumprir com o prazo, por gentileza, nos informe via email. 
